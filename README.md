@@ -5,7 +5,7 @@ Dome project to manage AWS EC2 instances snapshot
 
 This project is a demo, and uses boto3 to manage AWS EC2 instances snapshots
 
-## COnfiguring
+## Configuring
 
 shotty uses the configuration file created by the AWS cli e.g.
 
